@@ -4,8 +4,8 @@
 package timestampvm
 
 import (
-	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/avalanchego/vms"
+	"github.com/chain4travel/caminogo/snow"
+	"github.com/chain4travel/caminogo/vms"
 )
 
 var _ vms.Factory = &Factory{}

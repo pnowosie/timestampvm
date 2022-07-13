@@ -4,10 +4,10 @@
 package timestampvm
 
 import (
-	"github.com/ava-labs/avalanchego/database"
-	"github.com/ava-labs/avalanchego/database/prefixdb"
-	"github.com/ava-labs/avalanchego/database/versiondb"
-	"github.com/ava-labs/avalanchego/vms/components/avax"
+	"github.com/chain4travel/caminogo/database"
+	"github.com/chain4travel/caminogo/database/prefixdb"
+	"github.com/chain4travel/caminogo/database/versiondb"
+	"github.com/chain4travel/caminogo/vms/components/avax"
 )
 
 var (

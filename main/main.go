@@ -9,8 +9,8 @@ import (
 
 	log "github.com/inconshreveable/log15"
 
-	"github.com/ava-labs/avalanchego/vms/rpcchainvm"
 	"github.com/ava-labs/timestampvm/timestampvm"
+	"github.com/chain4travel/caminogo/vms/rpcchainvm"
 )
 
 func main() {

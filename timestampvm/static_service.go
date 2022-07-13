@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ava-labs/avalanchego/utils/formatting"
+	"github.com/chain4travel/caminogo/utils/formatting"
 )
 
 // StaticService defines the base service for the timestamp vm
